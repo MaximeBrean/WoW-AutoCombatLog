@@ -1,0 +1,5 @@
+## Interface: 30400
+## Title: Auto Combat Log
+## Notes: Automatically start combat log when you enter a raid zone.
+
+AutoCombatLog.lua
